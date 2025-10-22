@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/ba4fae5411524b01a27bb41f0f1d57f4/artifacts
+end_time: 1761048525878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba4fae5411524b01a27bb41f0f1d57f4
+run_name: unruly-shrike-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761048500292
+status: 3
+tags: []
+user_id: codespace

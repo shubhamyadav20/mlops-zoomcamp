@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/ff9b507272ad4956b113413230704eed/artifacts
+end_time: 1761048378578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff9b507272ad4956b113413230704eed
+run_name: rare-slug-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761048353220
+status: 3
+tags: []
+user_id: codespace
