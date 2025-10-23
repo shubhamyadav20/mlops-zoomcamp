@@ -60,3 +60,5 @@ df_result.to_parquet(
     compression=None,
     index=False
 )
+
+#output is 14.29
